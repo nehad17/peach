@@ -1,0 +1,3 @@
+Terminal Commands: 
+npm start 
+cd (moves you to specific directory)
